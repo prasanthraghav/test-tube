@@ -1,0 +1,22 @@
+{
+  "name": "test-tube",
+  "version": "1.0.0",
+  "description": "Code playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasanthraghav/test-tube.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasanthraghav/test-tube/issues"
+  },
+  "homepage": "https://github.com/prasanthraghav/test-tube#readme",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
